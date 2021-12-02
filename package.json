@@ -1,0 +1,19 @@
+{
+  "name": "loremipsumndi",
+  "version": "1.0.0",
+  "description": "Nuit de l'info",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Floflosera/LoremIpsumNDI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Floflosera/LoremIpsumNDI/issues"
+  },
+  "homepage": "https://github.com/Floflosera/LoremIpsumNDI#readme"
+}
