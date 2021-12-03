@@ -1,0 +1,1 @@
+insert into personne (nom, prenom, naissance, mort, description) VALUES("Louis","Michel","1999-01-01","1999-01-01","lorem ipsuuum")
