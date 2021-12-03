@@ -9,7 +9,7 @@
             "port": 3306,
             "driver": "MySQL",
             "name": "loremIpsum",
-            "database": "mydb",
+            "database": "loremipsum",
             "username": "root",
             "password": "dzd8NP6JQzi4HWaqic30"
         }
