@@ -3,36 +3,28 @@
     <head>
         <meta charset="utf-8">
         <title>Index</title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="index.css">
         <script src="script.js"></script>
     </head>
 
     <body>
         <header>
-            <img src="logo.png" alt="logo">
-            <nav>
-                <ul>
-                    <li><a>Ajouter ...</a>
-                        <ul role="group">
-                            <li><a href="urlajoutersauveteur">Un sauveteur</a></li>
-                            <li><a href="urlajouterbateau">Un bateau</a> </li>
-                        </ul>
-                    </li>
-                    <li><a><img src="logominitel">ImageMinitel</a></li>
-                    <li><img src="logo lune">Nuit</li>
-                </ul>   
-            </nav>
-            <center>
-            <div class="champ de recherche">
-                <form role="search" method="get">
-                    <input placeholder="Trouver un sauveteur ou un bateau" type="search">
-                    <button type="submit">
-                        <i class="boutonRecherche"></i>
-                    </button>
-                </form>
+            <a href="index.html"><img src="img/LOGO-DUO.png"  height="150px" alt="Logo des sauveteurs du Dunkerquois" class="navItem1"></a>
+            <div class="navBarRight">
+                <h3 class="navItem2">Ajouter...</h3>
+                <h3 class="navItem2">Espace retraités</h3>
+                <h3 class="navItem2">Mode Sombre</h3>
             </div>
-            </center>
         </header>
+
+        <div class="champDeRecherche">
+            <form role="search" method="get">
+                <label>Trouver un sauveteur, un bateau, ou une personne sauvée :
+                    <input type="search" class="recherche" >
+                </label>
+                <button  type="submit" class="submit"></button>
+            </form>
+        </div>
         <!-- dans la page, entre 2
         <table>
             <caption>Sauveteurs :</caption>
@@ -43,14 +35,13 @@
             </tr>
         </table>-->
         <footer>
-            <center>
-                <ul>
-                    <il><a href="https://www.facebook.com/groups/938396409644949"><img src="img/fb.png" width="14px"  ></a></il>
-                    <il><a href="https://twitter.com/boutelierphili1"><img src="img/twitter.png" width="14px" ></a></il>
-                    <il><a href="mailto:sauveteurdudunkerquois@gmail.com"> <img src="img/mail.png" width="14px" ></a></il>
-                </ul>
-            </center>
-            <span>© Lorem Ipsum 2021</span>
+            <span class="footItem">© Lorem Ipsum 2021</span>
+            <div class="footItem">
+                <a href="https://www.facebook.com/groups/938396409644949"><img alt="Logo Facebook" src="img/fb.png" width="14px"></a>
+                <a href="https://twitter.com/boutelierphili1"><img alt="Logo Twitter" src="img/twitter.png" width="14px"></a>
+                <a href="mailto:sauveteurdudunkerquois@gmail.com"> <img alt="Logo mail" src="img/mail.png" width="14px"></a>
+            </div>
+            <span class="footItem"></span>
         </footer>
     </body>
 </html>
