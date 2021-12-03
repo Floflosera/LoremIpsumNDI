@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aac9ab46-b6b0-4482-9a1d-e49e2df9dcec" name="Default Changelist" comment="" />
-    <list id="736a079e-1382-4268-a470-754f3c201d0e" name="Changes by flofl" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,15 +13,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="LineStatusTrackerManager">
-    <file path="$PROJECT_DIR$/index.html">
-      <ranges>
-        <range start1="5" end1="6" start2="5" end2="6" changelist="aac9ab46-b6b0-4482-9a1d-e49e2df9dcec" />
-        <range start1="11" end1="35" start2="11" end2="27" changelist="aac9ab46-b6b0-4482-9a1d-e49e2df9dcec" />
-        <range start1="45" end1="53" start2="37" end2="44" changelist="736a079e-1382-4268-a470-754f3c201d0e" />
-      </ranges>
-    </file>
-  </component>
   <component name="ProjectId" id="21kaIA3nddQDEiBasaNqEj34kgQ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,7 +23,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\imadm\Documents\GitHub\LoremIpsumNDI\src\html" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1638487459816</updated>
-      <workItem from="1638487461503" duration="10988000" />
+      <workItem from="1638487461503" duration="12870000" />
     </task>
     <servers />
   </component>
