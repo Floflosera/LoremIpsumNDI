@@ -134,4 +134,7 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node
 
-.vscode
+vscode
+
+# Don't show our password lol
+AUTH.json

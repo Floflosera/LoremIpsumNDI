@@ -1,0 +1,17 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "loremIpsum",
+            "database": "mydb",
+            "username": "root",
+            "password": "dzd8NP6JQzi4HWaqic30"
+        }
+    ]
+}
