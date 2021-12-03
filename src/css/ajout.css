@@ -1,0 +1,27 @@
+body {
+    font-family: arial, sans-serif;
+    align-items: center;
+}
+
+header {
+    width: 100%;
+    background-color: #555555;
+    align-items: center;
+}
+
+.navBarRight {
+    float: right;
+    padding-top: 3rem;
+}
+
+.navItem {
+    float: left;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    color: aliceblue;
+}
+
+.searchbar{
+    text-align: center;
+    padding-top: 10%;
+}
